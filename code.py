@@ -1,3 +1,4 @@
+#!/bin/python3
 import requests, re, time
 from bs4 import BeautifulSoup
 
